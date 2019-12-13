@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintPDF_Rotativa", "PrintPDF_Rotativa\PrintPDF_Rotativa.csproj", "{3123CB4C-E469-4BD1-B9A1-E190F6BAA535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3123CB4C-E469-4BD1-B9A1-E190F6BAA535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3123CB4C-E469-4BD1-B9A1-E190F6BAA535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3123CB4C-E469-4BD1-B9A1-E190F6BAA535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3123CB4C-E469-4BD1-B9A1-E190F6BAA535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAAE831-09DF-41CC-81A5-A415A494B0FC}
+	EndGlobalSection
+EndGlobal
